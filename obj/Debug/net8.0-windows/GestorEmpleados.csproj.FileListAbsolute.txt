@@ -1,0 +1,42 @@
+E:\TSDS 2° Año\POO\GestorEmpleados\obj\Debug\net8.0-windows\GestorEmpleados.Form1.resources
+E:\TSDS 2° Año\POO\GestorEmpleados\obj\Debug\net8.0-windows\GestorEmpleados.csproj.GenerateResource.cache
+E:\TSDS 2° Año\POO\GestorEmpleados\obj\Debug\net8.0-windows\GestorEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+E:\TSDS 2° Año\POO\GestorEmpleados\obj\Debug\net8.0-windows\GestorEmpleados.AssemblyInfoInputs.cache
+E:\TSDS 2° Año\POO\GestorEmpleados\obj\Debug\net8.0-windows\GestorEmpleados.AssemblyInfo.cs
+E:\TSDS 2° Año\POO\GestorEmpleados\obj\Debug\net8.0-windows\GestorEmpleados.csproj.CoreCompileInputs.cache
+E:\TSDS 2° Año\POO\GestorEmpleados\bin\Debug\net8.0-windows\GestorEmpleados.exe
+E:\TSDS 2° Año\POO\GestorEmpleados\bin\Debug\net8.0-windows\GestorEmpleados.deps.json
+E:\TSDS 2° Año\POO\GestorEmpleados\bin\Debug\net8.0-windows\GestorEmpleados.runtimeconfig.json
+E:\TSDS 2° Año\POO\GestorEmpleados\bin\Debug\net8.0-windows\GestorEmpleados.dll
+E:\TSDS 2° Año\POO\GestorEmpleados\bin\Debug\net8.0-windows\GestorEmpleados.pdb
+E:\TSDS 2° Año\POO\GestorEmpleados\obj\Debug\net8.0-windows\GestorEmpleados.dll
+E:\TSDS 2° Año\POO\GestorEmpleados\obj\Debug\net8.0-windows\refint\GestorEmpleados.dll
+E:\TSDS 2° Año\POO\GestorEmpleados\obj\Debug\net8.0-windows\GestorEmpleados.pdb
+E:\TSDS 2° Año\POO\GestorEmpleados\obj\Debug\net8.0-windows\GestorEmpleados.genruntimeconfig.cache
+E:\TSDS 2° Año\POO\GestorEmpleados\obj\Debug\net8.0-windows\ref\GestorEmpleados.dll
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\bin\Debug\net8.0-windows\GestorEmpleados.exe
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\bin\Debug\net8.0-windows\GestorEmpleados.deps.json
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\bin\Debug\net8.0-windows\GestorEmpleados.runtimeconfig.json
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\bin\Debug\net8.0-windows\GestorEmpleados.dll
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\bin\Debug\net8.0-windows\GestorEmpleados.pdb
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\obj\Debug\net8.0-windows\GestorEmpleados.csproj.AssemblyReference.cache
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\obj\Debug\net8.0-windows\GestorEmpleados.Form1.resources
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\obj\Debug\net8.0-windows\GestorEmpleados.LoginForm.resources
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\obj\Debug\net8.0-windows\GestorEmpleados.csproj.GenerateResource.cache
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\obj\Debug\net8.0-windows\GestorEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\obj\Debug\net8.0-windows\GestorEmpleados.AssemblyInfoInputs.cache
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\obj\Debug\net8.0-windows\GestorEmpleados.AssemblyInfo.cs
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\obj\Debug\net8.0-windows\GestorEmpleados.csproj.CoreCompileInputs.cache
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\obj\Debug\net8.0-windows\GestorEm.84022952.Up2Date
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\obj\Debug\net8.0-windows\GestorEmpleados.dll
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\obj\Debug\net8.0-windows\refint\GestorEmpleados.dll
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\obj\Debug\net8.0-windows\GestorEmpleados.pdb
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\obj\Debug\net8.0-windows\GestorEmpleados.genruntimeconfig.cache
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\obj\Debug\net8.0-windows\ref\GestorEmpleados.dll
+E:\TSDS 2° Año\POO\GestorEmpleados - con DB\bin\Debug\net8.0-windows\GestorEmpleados.dll.config
