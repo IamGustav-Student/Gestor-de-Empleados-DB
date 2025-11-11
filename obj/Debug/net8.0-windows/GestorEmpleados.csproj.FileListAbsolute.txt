@@ -40,3 +40,30 @@ E:\TSDS 2° Año\POO\GestorEmpleados - con DB\obj\Debug\net8.0-windows\GestorEmp
 E:\TSDS 2° Año\POO\GestorEmpleados - con DB\obj\Debug\net8.0-windows\GestorEmpleados.genruntimeconfig.cache
 E:\TSDS 2° Año\POO\GestorEmpleados - con DB\obj\Debug\net8.0-windows\ref\GestorEmpleados.dll
 E:\TSDS 2° Año\POO\GestorEmpleados - con DB\bin\Debug\net8.0-windows\GestorEmpleados.dll.config
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\bin\Debug\net8.0-windows\GestorEmpleados.exe
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\bin\Debug\net8.0-windows\GestorEmpleados.dll.config
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\bin\Debug\net8.0-windows\GestorEmpleados.deps.json
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\bin\Debug\net8.0-windows\GestorEmpleados.runtimeconfig.json
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\bin\Debug\net8.0-windows\GestorEmpleados.dll
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\bin\Debug\net8.0-windows\GestorEmpleados.pdb
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\bin\Debug\net8.0-windows\System.Data.SqlClient.dll
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\bin\Debug\net8.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\bin\Debug\net8.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\bin\Debug\net8.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\bin\Debug\net8.0-windows\runtimes\unix\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\bin\Debug\net8.0-windows\runtimes\win\lib\net8.0\System.Data.SqlClient.dll
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\obj\Debug\net8.0-windows\GestorEmpleados.csproj.AssemblyReference.cache
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\obj\Debug\net8.0-windows\GestorEmpleados.Form1.resources
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\obj\Debug\net8.0-windows\GestorEmpleados.LoginForm.resources
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\obj\Debug\net8.0-windows\GestorEmpleados.csproj.GenerateResource.cache
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\obj\Debug\net8.0-windows\GestorEmpleados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\obj\Debug\net8.0-windows\GestorEmpleados.AssemblyInfoInputs.cache
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\obj\Debug\net8.0-windows\GestorEmpleados.AssemblyInfo.cs
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\obj\Debug\net8.0-windows\GestorEmpleados.csproj.CoreCompileInputs.cache
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\obj\Debug\net8.0-windows\GestorEmpleados.sourcelink.json
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\obj\Debug\net8.0-windows\GestorEm.84022952.Up2Date
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\obj\Debug\net8.0-windows\GestorEmpleados.dll
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\obj\Debug\net8.0-windows\refint\GestorEmpleados.dll
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\obj\Debug\net8.0-windows\GestorEmpleados.pdb
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\obj\Debug\net8.0-windows\GestorEmpleados.genruntimeconfig.cache
+C:\Users\iamgu\source\repos\IamGustav-Student\Gestor-de-Empleados-DB\obj\Debug\net8.0-windows\ref\GestorEmpleados.dll

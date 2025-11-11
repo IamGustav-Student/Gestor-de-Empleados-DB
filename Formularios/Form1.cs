@@ -10,7 +10,7 @@ namespace GestorEmpleados
 
 
         static string connectionString = ConfigurationManager.ConnectionStrings["sqlconnectionstring"].ConnectionString;
-        List<Empleado> ListaEmpleados = new List<Empleado>();
+        //List<Empleado> ListaEmpleados = new List<Empleado>();
         public Form1()
         {
             InitializeComponent();
@@ -138,6 +138,7 @@ namespace GestorEmpleados
         #region Evento Modificar sin accion
         private void btnModificar_Click(object sender, EventArgs e)
         {
+
             int legajo = Convert.ToInt32(txtLegajo.Text);
             string nombre = txtNombre.Text;
             string profesion = txtProfesion.Text;
@@ -147,7 +148,7 @@ namespace GestorEmpleados
             string connectionString = "Server= GUSTAV-PC; Database= Empleados; Trusted_Connection=True";
             using (SqlConnection oConexion = new SqlConnection(connectionString))
             {
-                oConexion.Open();
+
                 // Consulta parametrizada para evitar inyección SQL
                 string query = @"UPDATE Empleados 
                                  SET Nombre = @Nombre, Apellido = @Apellido, Profesion = @Profesion, Sueldo = @Sueldo
@@ -164,9 +165,7 @@ namespace GestorEmpleados
                     MessageBox.Show("Empleado modificado exitosamente.");
                 }
             }
-            //int i = dgvEmpleados.CurrentCell.RowIndex;
-            //ListaEmpleados[i].Sueldo = Convert.ToDouble(txtSueldo.Text);
-            //CargarDatos();
+
         }
         #endregion
 
@@ -174,7 +173,7 @@ namespace GestorEmpleados
         #region Evento Borrar
         private void btnBorrar_Click(object sender, EventArgs e)
         {
-            using (SqlConnection conn = new SqlConnection(connectionString))
+            using (SqlConnection oConexion = new SqlConnection(connectionString))
             {
                 // Validamos que haya una fila seleccionada
                 if (dataGridView1.SelectedRows.Count == 0)
@@ -197,14 +196,14 @@ namespace GestorEmpleados
 
                 // Cadena de conexión
 
-                conn.Open();
+                oConexion.Open();
 
                 string query = "DELETE FROM Empleados WHERE Id = @Id";
 
-                using (SqlCommand cmd = new SqlCommand(query, conn))
+                using (SqlCommand oCommand = new SqlCommand(query, oConexion))
                 {
-                    cmd.Parameters.AddWithValue("@Id", id);
-                    cmd.ExecuteNonQuery();
+                    oCommand.Parameters.AddWithValue("@Id", id);
+                    oCommand.ExecuteNonQuery();
                     MessageBox.Show("Empleado eliminado correctamente.");
                 }
             }
@@ -263,10 +262,6 @@ namespace GestorEmpleados
 
         }
 
-        private void label5_Click(object sender, EventArgs e)
-        {
-
-        }
 
         private void txtApellido_TextChanged(object sender, EventArgs e)
         {
@@ -279,15 +274,17 @@ namespace GestorEmpleados
 
         }
 
+
+        #region Evento Update
         private void btnupdate_Click(object sender, EventArgs e)
         {
+
             int legajo = Convert.ToInt32(txtLegajo.Text);
             string nombre = txtNombre.Text;
             string profesion = txtProfesion.Text;
             string apellido = txtApellido.Text;
             double sueldo = Convert.ToDouble(txtSueldo.Text);
-            //Cadena de Conexión
-            //string connectionString = "Server= GUSTAV-PC; Database= Empleados; Trusted_Connection=True";
+
             using (SqlConnection oConexion = new SqlConnection(connectionString))
             {
                 oConexion.Open();
@@ -307,8 +304,37 @@ namespace GestorEmpleados
                     MessageBox.Show("Empleado modificado exitosamente.");
                 }
             }
+
+            
+        }
+        #endregion
+
+        private void btnGuardar_Click(object sender, EventArgs e)
+        {
+
         }
 
-        
+        private void btnBuscar_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void cmbBuscar_SelectedIndexChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void txtProfesion_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            CargarDatos();
+            HabilitarBotone();
+            DeshabilitarControles();
+            CargarProfesiones();
+            LlenarTextBox();
+        }
     }
 }

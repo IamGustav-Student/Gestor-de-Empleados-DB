@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "M3vYpQnHlBg=",
+  "dgSpecHash": "iVQQO/g+YfU=",
   "success": true,
-  "projectFilePath": "E:\\TSDS 2° Año\\POO\\GestorEmpleados - con DB\\GestorEmpleados.csproj",
+  "projectFilePath": "C:\\Users\\iamgu\\source\\repos\\IamGustav-Student\\Gestor-de-Empleados-DB\\GestorEmpleados.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\iamgu\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
     "C:\\Users\\iamgu\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
